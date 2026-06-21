@@ -1,0 +1,884 @@
+[
+  {
+    "id": "mot_001",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Logiciel",
+    "answer": "Software"
+  },
+  {
+    "id": "mot_002",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Cahier des charges",
+    "answer": "Specifications"
+  },
+  {
+    "id": "mot_003",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Navigateur",
+    "answer": "Browser"
+  },
+  {
+    "id": "mot_004",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Moteur de recherche",
+    "answer": "Search engine"
+  },
+  {
+    "id": "mot_005",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Programmation",
+    "answer": "Programming"
+  },
+  {
+    "id": "mot_006",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Nom de domaine",
+    "answer": "Domain name"
+  },
+  {
+    "id": "mot_007",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Compte",
+    "answer": "Account"
+  },
+  {
+    "id": "mot_008",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Créer un compte",
+    "answer": "To sign up"
+  },
+  {
+    "id": "mot_009",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Définir un mot de passe",
+    "answer": "To set a password"
+  },
+  {
+    "id": "mot_010",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Utilisateur",
+    "answer": "User"
+  },
+  {
+    "id": "mot_011",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Identifiant",
+    "answer": "Username"
+  },
+  {
+    "id": "mot_012",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Bibliothèque",
+    "answer": "Library"
+  },
+  {
+    "id": "mot_013",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Cadre de travail",
+    "answer": "Framework"
+  },
+  {
+    "id": "mot_014",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Environnement de développement",
+    "answer": "Integrated development environment - IDE"
+  },
+  {
+    "id": "mot_015",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Maintenance",
+    "answer": "Maintenance"
+  },
+  {
+    "id": "mot_016",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Sauvegarde",
+    "answer": "Backup"
+  },
+  {
+    "id": "mot_017",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Base de données",
+    "answer": "Database"
+  },
+  {
+    "id": "mot_018",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Flux de données",
+    "answer": "Data flow"
+  },
+  {
+    "id": "mot_019",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Stockage de données",
+    "answer": "Data storage"
+  },
+  {
+    "id": "mot_020",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Pare-feu",
+    "answer": "Firewall"
+  },
+  {
+    "id": "mot_021",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Logiciel espion",
+    "answer": "Spyware"
+  },
+  {
+    "id": "mot_022",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Bande passante",
+    "answer": "Bandwidth"
+  },
+  {
+    "id": "mot_023",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Interface de programmation",
+    "answer": "Application Programming Interface - API"
+  },
+  {
+    "id": "mot_024",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Balise",
+    "answer": "Markup"
+  },
+  {
+    "id": "mot_025",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Langage binaire",
+    "answer": "Binary language"
+  },
+  {
+    "id": "mot_026",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Système de gestion de contenu",
+    "answer": "Content management system - CMS"
+  },
+  {
+    "id": "mot_027",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Serveur",
+    "answer": "Server / Host"
+  },
+  {
+    "id": "mot_028",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Service d’hébergement",
+    "answer": "Hosting service"
+  },
+  {
+    "id": "mot_029",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Plan de site / Arborescence",
+    "answer": "Sitemap"
+  },
+  {
+    "id": "mot_030",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Site statique",
+    "answer": "Static site"
+  },
+  {
+    "id": "mot_031",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Site dynamique",
+    "answer": "Dynamic site"
+  },
+  {
+    "id": "mot_032",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Site animé",
+    "answer": "Animated site"
+  },
+  {
+    "id": "mot_033",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Refonte",
+    "answer": "Redesign"
+  },
+  {
+    "id": "mot_034",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Charte graphique",
+    "answer": "Graphic charter"
+  },
+  {
+    "id": "mot_035",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Bannière",
+    "answer": "Banner"
+  },
+  {
+    "id": "mot_036",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Référencement",
+    "answer": "Referencing"
+  },
+  {
+    "id": "mot_037",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Optimisation pour les moteurs de recherche",
+    "answer": "Search Engine Optimization - SEO"
+  },
+  {
+    "id": "mot_038",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Référencement payant",
+    "answer": "Search Engine Advertising - SEA"
+  },
+  {
+    "id": "mot_039",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Référencement abusif",
+    "answer": "Spamdexing"
+  },
+  {
+    "id": "mot_040",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Réseau Social",
+    "answer": "Social Network"
+  },
+  {
+    "id": "mot_041",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Protocole de transfert de fichier",
+    "answer": "File Transfer Protocol"
+  },
+  {
+    "id": "mot_042",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Transfert de fichier",
+    "answer": "File transfer"
+  },
+  {
+    "id": "mot_043",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Partage de fichier",
+    "answer": "File sharing"
+  },
+  {
+    "id": "mot_044",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Télécharger",
+    "answer": "To download/To upload"
+  },
+  {
+    "id": "mot_045",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Visite virtuelle",
+    "answer": "Virtual visit"
+  },
+  {
+    "id": "mot_046",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Objet interactif",
+    "answer": "Interactive object"
+  },
+  {
+    "id": "mot_047",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Interface utilisateur graphique",
+    "answer": "Graphic user interface"
+  },
+  {
+    "id": "mot_048",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Prototype d’interface utilisateur",
+    "answer": "Mock-up"
+  },
+  {
+    "id": "mot_049",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Expérience utilisateur",
+    "answer": "User experience"
+  },
+  {
+    "id": "mot_050",
+    "category": "Mots métier",
+    "question_type": "fr_to_en",
+    "prompt": "Maquette fonctionnelle d’un site",
+    "answer": "Wireframe"
+  },
+  {
+    "id": "expr_001",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Déclarer une variable en langage java",
+    "answer": "Declare a variable in java language"
+  },
+  {
+    "id": "expr_002",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Utiliser des tableaux pour stocker plusieurs valeurs dans une seule variable",
+    "answer": "Use arrays to store multiple values in a single variable"
+  },
+  {
+    "id": "expr_003",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Créer une chaîne en java",
+    "answer": "Create a string in java"
+  },
+  {
+    "id": "expr_004",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Exécuter des boucles",
+    "answer": "Execute loops"
+  },
+  {
+    "id": "expr_005",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Effectuer une opération d'entrée ou de sortie",
+    "answer": "Perform an input or output operation"
+  },
+  {
+    "id": "expr_006",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Traiter une information représentée sous sa forme binaire",
+    "answer": "Process a binary information"
+  },
+  {
+    "id": "expr_007",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Comprendre les principaux livrables, les jalons, ainsi que les rôles et les responsabilités de chaque personne impliquée dans une charte de projet",
+    "answer": "Understand the main deliverables, milestones, as well as the roles and responsibilities of each person involved in a project charter"
+  },
+  {
+    "id": "expr_008",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Utiliser les opérateurs booléens pour réduire, étendre ou affiner les résultats de recherche",
+    "answer": "Use Boolean operators to narrow, expand, or refine search results"
+  },
+  {
+    "id": "expr_009",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Créer une procédure stockée dans une base de données",
+    "answer": "Create a stored procedure in a database"
+  },
+  {
+    "id": "expr_010",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Utiliser les algorithmes les plus efficaces possibles pour résoudre des problèmes",
+    "answer": "Use the most efficient algorithms possible to solve problems"
+  },
+  {
+    "id": "expr_011",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Développer des solutions logicielles fiables et fonctionnelles",
+    "answer": "Develop reliable and functional software solutions"
+  },
+  {
+    "id": "expr_012",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Se positionner comme expert technique",
+    "answer": "Position oneself as a technical expert"
+  },
+  {
+    "id": "expr_013",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Gérer et optimiser la base de données",
+    "answer": "Manage and optimize the database"
+  },
+  {
+    "id": "expr_014",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Réaliser une étude logicielle",
+    "answer": "Conduct a software study"
+  },
+  {
+    "id": "expr_015",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Concevoir l’architecture des applications",
+    "answer": "Design application architecture"
+  },
+  {
+    "id": "expr_016",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Assurer la gestion des données",
+    "answer": "Ensure data management"
+  },
+  {
+    "id": "expr_017",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Sécuriser les applications",
+    "answer": "Secure applications"
+  },
+  {
+    "id": "expr_018",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Implémenter des solutions logicielles",
+    "answer": "Implement software solutions"
+  },
+  {
+    "id": "expr_019",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Créer des programmes",
+    "answer": "Build programs"
+  },
+  {
+    "id": "expr_020",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Écrire et tester le code",
+    "answer": "Write and test code"
+  },
+  {
+    "id": "expr_021",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Collaborer avec des développeurs",
+    "answer": "Collaborate with developers"
+  },
+  {
+    "id": "expr_022",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Utiliser des outils de développement",
+    "answer": "Use development tools"
+  },
+  {
+    "id": "expr_023",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Créer des applications ergonomiques",
+    "answer": "Create ergonomic applications"
+  },
+  {
+    "id": "expr_024",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Ecouter, analyser et rédiger les besoins",
+    "answer": "Listen, analyze and write needs"
+  },
+  {
+    "id": "expr_025",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Être garant de la pérennité et de l’évolution des solutions",
+    "answer": "To guarantee the sustainability and evolution of solutions"
+  },
+  {
+    "id": "expr_026",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Respecter les délais, les coûts et la qualité",
+    "answer": "Meet deadlines, costs and quality"
+  },
+  {
+    "id": "expr_027",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Satisfaire les attentes du client",
+    "answer": "Meet client expectations"
+  },
+  {
+    "id": "expr_028",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Piloter une projet d’ingénierie logicielle",
+    "answer": "Lead a software engineering project"
+  },
+  {
+    "id": "expr_029",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Construire un cahier des charges",
+    "answer": "Build specifications"
+  },
+  {
+    "id": "expr_030",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Gérer les données de l’entreprise",
+    "answer": "Manage company data"
+  },
+  {
+    "id": "expr_031",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Développer des applications mobiles",
+    "answer": "Develop mobile apps"
+  },
+  {
+    "id": "expr_032",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Accompagner la stratégie de l’entreprise",
+    "answer": "Support the company’s strategy"
+  },
+  {
+    "id": "expr_033",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Suivre les principes et bonnes pratiques de développement",
+    "answer": "Follow development principles and best practices"
+  },
+  {
+    "id": "expr_034",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Analyser et identifier tous les problèmes potentiels",
+    "answer": "Analyze and identify any potential problems"
+  },
+  {
+    "id": "expr_035",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Améliorer et maintenir le logiciel à long terme",
+    "answer": "Improve and maintain the software in the long term"
+  },
+  {
+    "id": "expr_036",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Traduire le besoin du client en demandes fonctionnelles",
+    "answer": "Translate the client's need into functional demands"
+  },
+  {
+    "id": "expr_037",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Analyser et décrire les tâches à réaliser par l’ordinateur",
+    "answer": "Analyze and describe the tasks to be performed by the computer"
+  },
+  {
+    "id": "expr_038",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Déterminer et schématiser les fonctionnalités du logiciel",
+    "answer": "Determine and schematize the software functionalities"
+  },
+  {
+    "id": "expr_039",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Déceler les défauts de programmation",
+    "answer": "Identify programming defects"
+  },
+  {
+    "id": "expr_040",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Effectuer des traitements par lot",
+    "answer": "Perform batch processes"
+  },
+  {
+    "id": "expr_041",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Contrôler les évolutions et les différentes versions du logiciel",
+    "answer": "Control developments and different versions of the software"
+  },
+  {
+    "id": "expr_042",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Maintenir en condition opérationnelle le logiciel",
+    "answer": "Keep the software in operational condition"
+  },
+  {
+    "id": "expr_043",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Mettre en production à l’issue des phases de qualification et d’intégration",
+    "answer": "Put into production at the end of the qualification and integration phases"
+  },
+  {
+    "id": "expr_044",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Rédiger le code source qui constitue le corps du logiciel",
+    "answer": "Write the source code that forms the body of the software"
+  },
+  {
+    "id": "expr_045",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Mettre en œuvre l’agilité au sein d’une équipe de développeurs",
+    "answer": "Implement agility as part of a team of developers"
+  },
+  {
+    "id": "expr_046",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Diriger des projets collaboratifs",
+    "answer": "Lead collaborative projects"
+  },
+  {
+    "id": "expr_047",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Vérifier que les fonctions offertes par le logiciel correspondent aux attentes du client",
+    "answer": "Make sure the features offered by the software are in line with the customer's expectations"
+  },
+  {
+    "id": "expr_048",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Définir les étapes clés de cycle de vie du projet",
+    "answer": "Define key lifecycle milestones for the project"
+  },
+  {
+    "id": "expr_049",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Intégrer les environnements de développement",
+    "answer": "Integrate development environments"
+  },
+  {
+    "id": "expr_050",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Gérer les modifications apportées au code source",
+    "answer": "Manage changes to source code"
+  },
+  {
+    "id": "expr_051",
+    "category": "Expressions métier",
+    "question_type": "fr_to_en",
+    "prompt": "Déployer le logiciel sur un serveur d’applications",
+    "answer": "Deploy the software to an application server"
+  },
+  {
+    "id": "def_001",
+    "category": "Définitions",
+    "question_type": "definition_to_term",
+    "prompt": "IT's the failure to comply with the design of software, intentional or not, which entails additional costs in the future.",
+    "answer": "Technical debt"
+  },
+  {
+    "id": "def_002",
+    "category": "Définitions",
+    "question_type": "definition_to_term",
+    "prompt": "It's an information system that is used to manage and follow all of a company's information and operational services on a daily basis.",
+    "answer": "Enterprise Resource Planning - ERP"
+  },
+  {
+    "id": "def_003",
+    "category": "Définitions",
+    "question_type": "definition_to_term",
+    "prompt": "It's an essential consideration in addressing a market. Each company faces several key success factor that need to be mastered at the risk of not being competitive.",
+    "answer": "Key success factor"
+  },
+  {
+    "id": "def_004",
+    "category": "Définitions",
+    "question_type": "definition_to_term",
+    "prompt": "it's a procedure to verify the proper functioning of a specific part of a software or portion of a program.",
+    "answer": "Unit testing"
+  },
+  {
+    "id": "def_005",
+    "category": "Définitions",
+    "question_type": "definition_to_term",
+    "prompt": "It's brings together the various ways to protect the user from errors and allow them to correct them. The goal is to minimize interruptions due to errors.",
+    "answer": "Error management"
+  },
+  {
+    "id": "def_006",
+    "category": "Définitions",
+    "question_type": "definition_to_term",
+    "prompt": "It's involves managing all versions of one or more files.",
+    "answer": "Version / Versioning management"
+  },
+  {
+    "id": "def_007",
+    "category": "Définitions",
+    "question_type": "definition_to_term",
+    "prompt": "Is a technique used by compilers to optimize loop execution.",
+    "answer": "Software pipelining"
+  },
+  {
+    "id": "def_008",
+    "category": "Définitions",
+    "question_type": "definition_to_term",
+    "prompt": "Is, in the IT field, the ability for components or applications to be maintained, consistently and at a lower cost, in working order.",
+    "answer": "Maintainability"
+  },
+  {
+    "id": "def_009",
+    "category": "Définitions",
+    "question_type": "definition_to_term",
+    "prompt": "Is a characteristic module arrangement, recognized as good practice in response to a software design problem. It describes a standard solution that can be used in the design of different software.",
+    "answer": "Design pattern"
+  },
+  {
+    "id": "def_010",
+    "category": "Définitions",
+    "question_type": "definition_to_term",
+    "prompt": "A high-level document outlining the organization's key principles, approaches and objectives regarding testing activity. It's therefore a document that describes why testing is done.",
+    "answer": "Testing policy"
+  },
+  {
+    "id": "def_011",
+    "category": "Définitions",
+    "question_type": "definition_to_term",
+    "prompt": "A query is a questioning of a database. It may have a number of criteria for specifying the application. There are several query languages, which are specific to the structure of the databases.",
+    "answer": "Database query"
+  },
+  {
+    "id": "def_012",
+    "category": "Définitions",
+    "question_type": "definition_to_term",
+    "prompt": "Is a set of graphical representation methods, in two or three dimensions, using color and frames or not. Computer resources allow complex sets of data to be represented in a simpler, educational and pedagogical way.",
+    "answer": "Data visualization"
+  },
+  {
+    "id": "def_013",
+    "category": "Définitions",
+    "question_type": "definition_to_term",
+    "prompt": "Are a software development technique, a variant of the architectural style of service-oriented architecture, which structures an application as a set of poorly coupled services.",
+    "answer": "Microservices"
+  },
+  {
+    "id": "def_014",
+    "category": "Définitions",
+    "question_type": "definition_to_term",
+    "prompt": "A cloud service category that offers a processing platform and a software layer as a service.",
+    "answer": "Platform as a service (Paas)"
+  },
+  {
+    "id": "def_015",
+    "category": "Définitions",
+    "question_type": "definition_to_term",
+    "prompt": "Allows you to select the most relevant criteria based on a goal to be achieved.",
+    "answer": "Selection criteria"
+  },
+  {
+    "id": "def_016",
+    "category": "Définitions",
+    "question_type": "definition_to_term",
+    "prompt": "Is designed with the needs of the future user of the application based on the study and the results of creating an element or functionality of the software that will suit the needs in question.",
+    "answer": "Software architecture"
+  },
+  {
+    "id": "def_017",
+    "category": "Définitions",
+    "question_type": "definition_to_term",
+    "prompt": "Is software or data hosted or launched on remote servers, accessible from anywhere on the internet.",
+    "answer": "Cloud computing"
+  },
+  {
+    "id": "def_018",
+    "category": "Définitions",
+    "question_type": "definition_to_term",
+    "prompt": "Is an ethical hacking technique that tests the vulnerability of a computer system, application or website by detecting vulnerabilities that may be exploited by a hacker or malware.",
+    "answer": "Pentest"
+  },
+  {
+    "id": "def_019",
+    "category": "Définitions",
+    "question_type": "definition_to_term",
+    "prompt": "Is an action plan defined to preserve the integrity and sustainability of a social group.",
+    "answer": "Security policy"
+  },
+  {
+    "id": "def_020",
+    "category": "Définitions",
+    "question_type": "definition_to_term",
+    "prompt": "Is a list of means, the target or targets, principles to follow and values to be respected, the priority of tasks, and a timetable for achieving those goals.",
+    "answer": "Roadmap"
+  },
+  {
+    "id": "def_021",
+    "category": "Définitions",
+    "question_type": "definition_to_term",
+    "prompt": "Supports an assertion using reasoning or evidence.",
+    "answer": "Arguing to convince"
+  },
+  {
+    "id": "def_022",
+    "category": "Définitions",
+    "question_type": "definition_to_term",
+    "prompt": "Is to identify and assess the risks (operational, financial, reputational in particular) associated with the IT activities of a company or administration.",
+    "answer": "Setting up an audit tool"
+  },
+  {
+    "id": "def_023",
+    "category": "Définitions",
+    "question_type": "definition_to_term",
+    "prompt": "Is an approach that aims to perfect the programs developed by offering innovative technical solutions.",
+    "answer": "Development improvement"
+  },
+  {
+    "id": "def_024",
+    "category": "Définitions",
+    "question_type": "definition_to_term",
+    "prompt": "The quality approach is all the actions carried out by a company to: improve quality management, offer better products, services to customers, and make employees evolve.",
+    "answer": "Setting up a quality approach"
+  },
+  {
+    "id": "def_025",
+    "category": "Définitions",
+    "question_type": "definition_to_term",
+    "prompt": "Is a table that brings together all our choices as well as the different criteria to consider in order to decide between them. This matrix facilitates decision-making because it lets you know which is the best choice through a weighting system.",
+    "answer": "Matrix of choices"
+  }
+]

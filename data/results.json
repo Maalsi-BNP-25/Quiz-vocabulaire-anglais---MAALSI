@@ -1,0 +1,25 @@
+[
+  {
+    "date": "2026-06-21 18:47:33",
+    "total": 125,
+    "correct": 124,
+    "wrong": 1,
+    "score_percent": 99.2,
+    "grade": "A",
+    "duration_seconds": 16213,
+    "categories": [
+      "Définitions",
+      "Expressions métier",
+      "Mots métier"
+    ],
+    "errors": [
+      {
+        "question_id": "mot_050",
+        "category": "Mots métier",
+        "prompt": "Maquette fonctionnelle d’un site",
+        "user_answer": "Mock-up",
+        "correct_answer": "Wireframe"
+      }
+    ]
+  }
+]
